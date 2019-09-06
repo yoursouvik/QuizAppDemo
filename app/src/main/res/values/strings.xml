@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">QuizApplication</string>
+    <string name="question">Question</string>
+    <string name="radiobutton1">RadioButton1</string>
+    <string name="radiobutton2">RadioButton2</string>
+    <string name="radiobutton3">RadioButton3</string>
+    <string name="radiobutton4">RadioButton4</string>
+    <string name="next">Next</string>
+    <string name="finish">Finish</string>
+    <string name="_1">1</string>
+    <string name="quiz_questions">Quiz Questions</string>
+</resources>
