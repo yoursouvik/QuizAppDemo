@@ -1,1 +1,1 @@
-This Repository is for Kotlin Demo Application
+This Repository is for Quiz Demo Application using Kotlin.
